@@ -1,0 +1,5 @@
+I need a Python script that reads a text file with coordinates of stars in a picture. 
+The script should then load the image of the starfield and go to each entry in the list 
+and measure the star size (diameter) in pixels. 
+With these information, a new image should be created where all 
+entries of the list are showed as a white circle with the size of the stars on a black background.
